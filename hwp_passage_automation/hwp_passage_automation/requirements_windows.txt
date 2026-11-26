@@ -1,0 +1,4 @@
+-r requirements.txt
+pywin32>=306
+pywebview>=5.1
+pyinstaller>=6.10.0
